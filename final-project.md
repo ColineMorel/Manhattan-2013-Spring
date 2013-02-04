@@ -1,3 +1,10 @@
+# Final Project Topic Requirements
+
+1. The topic must be approved by me.
+2. The topic must not be broad. "Sports" is too broad and not a good topics.
+3. The topic should be a niche concept that can result in an interesting web site.
+4. You should pick a topic that you feel passionate about.
+
 # Final Project Parameters (not in order)
 
 1. All pages must be valid.
