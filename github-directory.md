@@ -46,7 +46,7 @@
       <a href="https://github.com/JuliBilto"> </a></td>
   </tr>
   <tr>
-    <td><img src="https://secure.gravatar.com/avatar/0b4641a7326c854532440ca422406abd?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png" alt="" width="150" height="150" /></td>
+    <td><img src="https://secure.gravatar.com/avatar/xxxxxxxxxx?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png" alt="" width="150" height="150" /></td>
     <td>Danila Abdulmyanov
       <p><a href="https://github.com/elliewiekamp"></a>Final Topic</p>
     </td>
@@ -66,7 +66,7 @@
       <a href="https://github.com/nicolepeltier"> </a></td>
   </tr>
   <tr>
-    <td><img src="https://secure.gravatar.com/avatar/0b4641a7326c854532440ca422406abd?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png" alt="" width="150" height="150" /></td>
+    <td><img src="https://secure.gravatar.com/avatar/xxxxxxxxxx?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png" alt="" width="150" height="150" /></td>
     <td>Giselle Blanco
       <p><a href="https://github.com/elliewiekamp"></a>Final Topic</p>
     </td>
