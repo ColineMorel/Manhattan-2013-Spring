@@ -97,8 +97,10 @@
   <tr>
     <td><img src="https://secure.gravatar.com/avatar/1b5583b71bf845905943759e8dc8e4d5?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png" alt="" width="150" height="150" /></td>
     <td><a href="https://github.com/kevin-amatulli">Kevin Amatulli</a>
-      <p><a href="https://github.com/elliewiekamp"></a>Final Topic</p>
-      <a href="https://github.com/kevin-amatulli"> </a></td>
+      <p><strong>Topic:</strong> Inexpensive ways to enjoy New York City</p>
+      <p><strong>Description:</strong> Living in New York I have realized that there are a lot of places in the 5 boroughs of New York were a person can have fun for under $30. My site will show where these destinations are and  provida pictures and costs.</p>
+      <p><strong>Status:</strong> Approved</p>
+    </td>
   </tr>
   <tr>
     <td><img src="https://secure.gravatar.com/avatar/e3f3edaf037b0ff6ce6a9196b5dd7111?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png" alt="" width="150" height="150" /></td>
