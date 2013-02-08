@@ -71,7 +71,7 @@
         <td align="center" valign="top"><img style="border: 1px solid #000; width:150px;height:150px;"  src="https://secure.gravatar.com/avatar/1b5583b71bf845905943759e8dc8e4d5?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-150.png" alt="" width="150" height="150" /></td>
         <td align="left" valign="top"><a href="https://github.com/kevin-amatulli">Kevin Amatulli</a>
           <p><strong>Topic:</strong> Inexpensive ways to enjoy New York City</p>
-          <p><strong>Description:</strong> Living in New York I have realized that there are a lot of places in the 5 boroughs of New York were a person can have fun for under $30. My site will show where these destinations are and  provida pictures and costs.</p>
+          <p><strong>Description:</strong> Living in New York I have realized that there are a lot of places in the 5 boroughs of New York were a person can have fun for under $30. My site will show where these destinations are and  provide pictures and costs.</p>
           <p><strong>Status:</strong> Approved</p>
         </td>
       </tr>
