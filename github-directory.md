@@ -44,8 +44,8 @@
      <a href="https://github.com/gialucia"> </a></td>
    </tr>
    <tr>
-    <td><img src="https://secure.gravatar.com/avatar/xxxxxxxxxx?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-150.png" alt="" width="150" height="150" /></td>
-    <td>Giselle Blanco
+    <td><img src="https://secure.gravatar.com/avatar/8831a4da17754e088a1b8f72cac0c822??s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-150.png" alt="" width="150" height="150" /></td>
+    <td><a href="https://github.com/giselleblanco">Giselle Blanco</a>
      <p>Final Topic</p>
     </td>
    </tr>
