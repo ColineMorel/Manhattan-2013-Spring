@@ -1,18 +1,7 @@
 2013 Spring Student GitHub Directory
 ====================================
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Untitled Document</title>
-    <style type="text/css">
-img { border: 1px solid #000; }
-</style>
-  </head>
-  
-  <body>
-    <table width="100%" cellpadding="5" cellspacing="0">
+<table width="100%" cellpadding="5" cellspacing="0">
       <tr>
         <td align="center" valign="top"><a href="https://github.com/RalphMRivera"><img style="border: 1px solid #000; width:150px;height:150px;"  src="https://secure.gravatar.com/avatar/7695899f2417703e265b9f4a46d01b07?s=150&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-150.png" alt="" width="150" height="150" border="0" /></a></td>
         <td align="left" valign="top"><a href="https://github.com/RalphMRivera">Ralph M. Rivera</a></td>
@@ -142,5 +131,3 @@ img { border: 1px solid #000; }
         </td>
       </tr>
     </table>
-  </body>
-</html>
