@@ -36,7 +36,7 @@
           <p><strong>Title:</strong> A website that would be a blog of my mixes since I DJ part time.</p>
           <p><strong>Description: </strong>A site dedicated to showing new and upcoming mixes of mine on a daily basis.  Every day I will record a new mix and upload it to my site.  Ultimately, this site will promote my music as a  DJ as well.</p>
           <p><strong>Status:</strong> Provisionally approved.</p>
-          <p><strong>Comments:</strong> This could be tought becasue it requires integration rich media types that we typically don't discuss in class.</p>
+          <p><strong>Comments:</strong> This could be tough because it requires integration of rich media types that we typically don't discuss in class.</p>
           <a href="https://github.com/danielcastro3"> </a></td>
       </tr>
       <tr>
@@ -81,8 +81,7 @@
           <p><strong>Description:</strong> I will  break down the world of Westeros by the families most important to the world. I  will include biographies about the important individuals in that family and a  brief history of that family. I will also make a page for the war of the Five  Kings.</p>
           <p><strong>Status:</strong> Provisionally Approved</p>
           <p><strong>Comments:</strong> I can find a million sites with this information. Find a hook that you can narrow down that even a Game of Thrones fan would appreciate.</p>
-          <p><strong>Status:</strong> Approved </p>
-        </td>
+         </td>
       </tr>
       <tr>
         <td><img src="https://secure.gravatar.com/avatar/8be63820eadec4ffa46a04350cad544b?s=150&amp;d=https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-150.png" alt="" width="150" height="150" /></td>
@@ -106,7 +105,7 @@
           <p><strong>Title:</strong> The impact the occupy movement had on media</p>
           <p><strong>Description:</strong> A site dedicated to the influence the occupy movement had on all forms of media. Depictions of protesters. Depictions of the 1%. Depiction of the 99%. How they are characterized. How news outlets treated these during the initial movement.</p>
           <p><strong>Status: </strong>Provisionally approved</p>
-          <p><strong>Comments: </strong>Seems like a difficult topic. Lot's of places to go. This topic could get away from you easily. Refine it down.        </p>
+          <p><strong>Comments: </strong>Seems like a difficult topic. Lots of places to go. This topic could get away from you easily. Refine it down.        </p>
         </td>
       </tr>
       <tr>
