@@ -5,3 +5,5 @@
     - [How to Use GitHub to Contribute to Open Source Projects](http://www.lockergnome.com/web/2011/12/13/how-to-use-github-to-contribute-to-open-source-projects/)
 - Business
     - [I Won't Hire People Who Use Poor Grammar. Here's Why.](http://blogs.hbr.org/cs/2012/07/i_wont_hire_people_who_use_poo.html)
+- Learning Resources
+    - [Lean Learning: A guide to online learning on the cheap | Search Engine People](http://www.searchenginepeople.com/blog/lean-learning-a-guide-to-online-learning-on-the-cheap.html)
