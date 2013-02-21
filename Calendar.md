@@ -71,13 +71,45 @@ Manhattan 2013 Spring Calendar
         <td>
           <p>Anatomy of a website</p>
         </td>
-      </tr>
-      <tr>
+      </tr> <tr>
         <td rowspan="3">
           <p>3</p>
         </td>
         <td rowspan="3">
           <p>February 08, 2013</p>
+        </td>
+        <td>
+          <p>1</p>
+        </td>
+        <td>
+          <p>SNOW</p>
+        </td>
+        <td rowspan="3">
+          <p>- Final Topics (10)</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>2</p>
+        </td>
+        <td>
+          <p>SNOW</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>3</p>
+        </td>
+        <td>
+          <p>SNOW</p>
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="3">
+          <p>4</p>
+        </td>
+        <td rowspan="3">
+          <p>February 15, 2013</p>
         </td>
         <td>
           <p>1</p>
@@ -94,7 +126,7 @@ Manhattan 2013 Spring Calendar
           <p>2</p>
         </td>
         <td>
-          <p>Understanding paths</p>
+          <p>Creating files and folders</p>
         </td>
       </tr>
       <tr>
@@ -102,15 +134,15 @@ Manhattan 2013 Spring Calendar
           <p>3</p>
         </td>
         <td>
-          <p>Creating files and folders</p>
+          <p>Building a Doctor Who Web Site with Dreamweaver</p>
         </td>
       </tr>
       <tr>
         <td rowspan="3">
-          <p>4</p>
+          <p>5</p>
         </td>
         <td rowspan="3">
-          <p>February 15, 2013</p>
+          <p>February 22, 2013</p>
         </td>
         <td>
           <p>1</p>
@@ -127,7 +159,7 @@ Manhattan 2013 Spring Calendar
           <p>2</p>
         </td>
         <td>
-          <p>Creating a repo</p>
+          <p>Creating &amp; managing a repo</p>
         </td>
       </tr>
       <tr>
@@ -135,15 +167,14 @@ Manhattan 2013 Spring Calendar
           <p>3</p>
         </td>
         <td>
-          <p>Managing a repo</p>
+          <p>Building a Doctor Who Web Site with Dreamweaver and Github</p>
         </td>
       </tr>
       <tr>
         <td rowspan="3">
-          <p>5</p>
-        </td>
+          <p>6</p></td>
         <td rowspan="3">
-          <p>February 22, 2013</p>
+          <p>March 01, 2013</p>
         </td>
         <td>
           <p>1</p>
@@ -152,7 +183,7 @@ Manhattan 2013 Spring Calendar
           <p>HTML fundamentals</p>
         </td>
         <td rowspan="3">
-          <p>&nbsp; </p>
+          <p>- Complete Doctor Who Assignment (50-100) </p>
         </td>
       </tr>
       <tr>
@@ -160,7 +191,9 @@ Manhattan 2013 Spring Calendar
           <p>2</p>
         </td>
         <td>
-          <p>Building a web page</p>
+          <p>Creating a quality web page</p>
+          <p>Adding content</p>
+          <p>Copy and pasting</p>
         </td>
       </tr>
       <tr>
@@ -168,15 +201,15 @@ Manhattan 2013 Spring Calendar
           <p>3</p>
         </td>
         <td>
-          <p>Building a two page site</p>
+          <p>Titles, naming, etc.</p>
         </td>
       </tr>
       <tr>
         <td rowspan="3">
-          <p>6</p>
+          <p>7</p>
         </td>
         <td rowspan="3">
-          <p>March 01, 2013</p>
+          <p>March 08, 2013</p>
         </td>
         <td>
           <p>1</p>
@@ -193,7 +226,7 @@ Manhattan 2013 Spring Calendar
           <p>2</p>
         </td>
         <td>
-          <p>Styling a web page</p>
+          <p>Attaching a stylesheet</p>
         </td>
       </tr>
       <tr>
@@ -201,15 +234,15 @@ Manhattan 2013 Spring Calendar
           <p>3</p>
         </td>
         <td>
-          <p>Styling the two page site.</p>
+          <p>Styling a page</p>
         </td>
       </tr>
       <tr>
         <td rowspan="3">
-          <p>7</p>
+          <p>8</p>
         </td>
         <td rowspan="3">
-          <p>March 08, 2013</p>
+          <p>March 15, 2013</p>
         </td>
         <td>
           <p>1</p>
@@ -237,12 +270,16 @@ Manhattan 2013 Spring Calendar
           <p>Digital imaging basics</p>
         </td>
       </tr>
+      <tr><th colspan="5">
+          <p>Spring Break</p>
+        </th>
+      </tr>
       <tr>
         <td rowspan="3">
-          <p>8</p>
+          <p>9</p>
         </td>
         <td rowspan="3">
-          <p>March 15, 2013</p>
+          <p>April 05, 2013</p>
         </td>
         <td>
           <p>1</p>
@@ -272,39 +309,6 @@ Manhattan 2013 Spring Calendar
       </tr>
       <tr>
         <td rowspan="3">
-          <p>9</p>
-        </td>
-        <td rowspan="3">
-          <p>April 05, 2013</p>
-        </td>
-        <td>
-          <p>1</p>
-        </td>
-        <td>
-          <p>The Doctor Who website (basic site)</p>
-        </td>
-        <td rowspan="3">
-          <p>&nbsp; </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>2</p>
-        </td>
-        <td>
-          <p>&nbsp; </p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>3</p>
-        </td>
-        <td>
-          <p>&nbsp; </p>
-        </td>
-      </tr>
-      <tr>
-        <td rowspan="3">
           <p>10</p>
         </td>
         <td rowspan="3">
@@ -314,7 +318,7 @@ Manhattan 2013 Spring Calendar
           <p>1</p>
         </td>
         <td>
-          <p>&nbsp; </p>
+          <p>The Doctor Who website (basic site)</p>
         </td>
         <td rowspan="3">
           <p>&nbsp; </p>
@@ -347,7 +351,7 @@ Manhattan 2013 Spring Calendar
           <p>1</p>
         </td>
         <td>
-          <p>The Student Gallery website (comlex site)</p>
+          <p>&nbsp; </p>
         </td>
         <td rowspan="3">
           <p>&nbsp; </p>
@@ -380,7 +384,7 @@ Manhattan 2013 Spring Calendar
           <p>1</p>
         </td>
         <td>
-          <p>&nbsp; </p>
+          <p>The Student Gallery website (comlex site)</p>
         </td>
         <td rowspan="3">
           <p>&nbsp; </p>
@@ -437,7 +441,7 @@ Manhattan 2013 Spring Calendar
       </tr>
       <tr>
         <td>
-          <p>15</p>
+          <p>14</p>
         </td>
         <td>
           <p>FINAL</p>
