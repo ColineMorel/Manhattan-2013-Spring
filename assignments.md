@@ -49,5 +49,23 @@ Assignments
       </tr>
       <tr>
         <th colspan="3">March 08, 2013</th>
+      </tr> 
+      <tr>
+        <td>
+          <p>Recommended Reading </p>
+        </td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+          <p>Required Reading </p>
+        </td>
+        <td>
+          <ul>
+            <li><strong>Resource</strong> - <a href="https://developer.mozilla.org/en-US/docs/HTML/Element">HTML Elements</a></li>
+          </ul>
+        </td>
+        <td>&nbsp;</td>
       </tr>
     </table>
