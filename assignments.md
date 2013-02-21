@@ -1,0 +1,53 @@
+Assignments
+==============================
+<table>
+      <tr>
+        <th colspan="3">March 01, 2013</th>
+      </tr>
+      <tr>
+        <td>
+          <p>Recommended Reading </p>
+        </td>
+        <td>
+          <ul>
+            <li><strong>Business</strong> - <a href="http://blogs.hbr.org/cs/2012/07/i_wont_hire_people_who_use_poo.html">I Won't Hire People Who Use Poor Grammar. Here's Why.</a> </li>
+            <li><strong>Resource</strong> - <a href="http://www.searchenginepeople.com/blog/lean-learning-a-guide-to-online-learning-on-the-cheap.html">Lean Learning: A guide to online learning on the cheap</a></li>
+          </ul>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+          <p>Required Reading        </p>
+        </td>
+        <td>
+          <ul>
+            <li><strong>GitHub</strong> - <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github">How the Heck Do I Use GitHub?</a></li>
+            <li><strong>GitHub</strong> - <a href="http://www.lockergnome.com/web/2011/12/13/how-to-use-github-to-contribute-to-open-source-projects/">How to Use GitHub to Contribute to Open Source Projects</a></li>
+            <li><strong>Resource</strong> - <a href="http://webdesignledger.com/inspiration/inspiring-wireframe-sketches">Inspiring Wireframe Sketches</a>            
+            <li><strong>Resource</strong> - <a href="https://developer.mozilla.org/en-US/docs/HTML/Introduction">Introduction to HTML</a></li>
+          </ul>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>
+          <p>Production        </p>
+        </td>
+        <td>
+          <p>Complete the doctor who web site.</p>
+          <ul>
+            <li>Add all Doctors.</li>
+            <li>Add a total of 5 companions.</li>
+            <li>Add a total of 5 enemies.</li>
+            <li>Test your pages.</li>
+            <li>Make commits.</li>
+            <li>Sync your repo.</li>
+          </ul>
+        </td>
+        <td>50-100</td>
+      </tr>
+      <tr>
+        <th colspan="3">March 08, 2013</th>
+      </tr>
+    </table>
